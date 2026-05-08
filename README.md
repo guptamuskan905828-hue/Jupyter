@@ -20,6 +20,6 @@ This project demonstrates basic data analysis using the Python Pandas library. I
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+
 
 ---
