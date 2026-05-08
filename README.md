@@ -23,10 +23,3 @@ This project demonstrates basic data analysis using the Python Pandas library. I
 - Matplotlib
 
 ---
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-[GitHub : https://github.com/muskan-gupta01/Jupyter](https://github.com/muskan-gupta01/Jupyter/blob/main/README.md)
