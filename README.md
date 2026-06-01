@@ -23,3 +23,8 @@ This project demonstrates basic data analysis using the Python Pandas library. I
 
 
 ---
+👩‍💻 Author
+Muskan Gupta
+
+Connect with Me
+LinkedIn: linkedin.com/in/muskan-gupta-551293386
